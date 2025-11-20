@@ -1,0 +1,4 @@
+EASY,8,10,5,5,true,true,1.0,1.0,0
+MEDIUM,10,10,15,10,true,true,1.2,1.2,50
+DIFFICULT,16,16,20,30,true,false,1.5,1.5,100
+EXPERT,20,20,30,50,false,false,2.0,2.0,200
